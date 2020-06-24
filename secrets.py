@@ -1,6 +1,6 @@
 
 username = 'shrestha.nischal76bca@nacolnist.edu.np'
-password = 'Nisch@l123'
+password = '*PASSWORD*'
 
 muser = 'see.eu.again'
-mpword = '65730163@ezakmi'
+mpword = '**FB8**password**'
